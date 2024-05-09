@@ -16,7 +16,7 @@
         index.jsx
         profiles.jsx
     src/main.jsx
-    src/router.jsx
+    src/main.css
 
 [] - Enviar repositório para os alunos
 [] - Clonar juntos com os alunos o repositório base 

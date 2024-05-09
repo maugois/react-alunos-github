@@ -1,0 +1,26 @@
+# Projeto Github
+
+## O objetivo do projeto é desenvolvermos uma página que tenha um input para pesquisarmos perfis no Github.
+
+
+## STEPS TEATCHER
+[] - Criar estrutura de projeto:
+    src/componentes
+        ListProfile/
+            ListProfileComponent.jsx
+            ListProfileComponent.css
+        ProfileCard/
+            ProfileCardComponent.jsx
+            ProfileCardComponent.css
+    src/pages
+        index.jsx
+        profiles.jsx
+    src/main.jsx
+    src/router.jsx
+
+[] - Enviar repositório para os alunos
+[] - Clonar juntos com os alunos o repositório base 
+[] - Apresentar projeto base
+
+
+## STEPS ALUNOS
